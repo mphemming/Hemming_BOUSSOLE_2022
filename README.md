@@ -1,6 +1,6 @@
 ## Code repository 
 ## Hemming et al., (2022) - Net community production in the northwestern Mediterranean Sea from glider and buoy measurements
-### (put link to paper and dataset here when available)
+### [https://doi.org/10.5194/os-18-1245-2022](https://doi.org/10.5194/os-18-1245-2022)
 
 
 ### NCP Scripts
